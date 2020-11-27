@@ -1,0 +1,21 @@
+textarea {
+    resize: none;
+}
+
+.form1 {
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.form2 {
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.form3 {
+    text-align: right;
+    margin-right: 30px;
+    margin-top: 15px;
+}

@@ -1,0 +1,8 @@
+Kayıtlı giriş bilgileri:
+	Sicil No: 123456789
+	Şifre: 1234567890
+'Sistem' klasörünü 'xampp' dosyasının içindeki 'htdocs' klasörüne attıktan, XAMPP'ı başlattıktan
+ve phpMyAdmin'de 'postane' isimli bir veri tabanı oluşturup, klasördeki 'postane' isimli
+veri tabanını oluşturulan veri tabanına içe aktardıktan sonra
+'http://localhost/Sistem/giris/girisindex.php' adresinden sisteme Sicil No
+ve Şifre ile giriş yapıp, sistemi kontrol edebilirsiniz.

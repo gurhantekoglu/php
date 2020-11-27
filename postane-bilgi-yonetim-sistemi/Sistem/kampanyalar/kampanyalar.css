@@ -1,0 +1,38 @@
+.kutu1 {
+    float: left;
+    width: 300px;
+    height: 410px;
+    background-color: #463137ff;
+    color: white;
+    border: none;
+    margin-left: 30px;
+    margin-top: 15px;
+    border-radius: 40px;
+    text-align: center;
+}
+
+.kutu2 {
+    float: left;
+    width: 300px;
+    height: 410px;
+    background-color: #463137ff;
+    color: white;
+    border: none;
+    margin-left: 70px;
+    margin-top: 15px;
+    border-radius: 40px;
+    text-align: center;
+}
+
+.kutu3 {
+    float: right;
+    width: 300px;
+    height: 410px;
+    background-color: #463137ff;
+    color: white;
+    border: none;
+    margin-right: 30px;
+    margin-top: 15px;
+    border-radius: 40px;
+    text-align: center;
+}

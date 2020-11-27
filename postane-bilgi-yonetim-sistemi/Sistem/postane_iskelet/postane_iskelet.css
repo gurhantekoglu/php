@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+    background: #325b62ff;
+}
+
+.header {
+    width: 20 10px;
+    position: absolute;
+    left: 7%;
+    font-size: 25px;
+
+}
+
+.header li {
+    display: inline-block;
+    list-style: none;
+}
+
+.header li a {
+    background: #c0454cff;
+    color: white;
+    display: block;
+    padding: 10px 49px;
+    text-decoration: none;
+}
+
+.header li a:hover {
+    background: #463137ff;
+}
+
+.icerik {
+    position: fixed;
+    top: 15%;
+    left: 10%;
+    background-color: #c9c0b5ff;
+    width: 1100px;
+    height: 445px;
+}
+
+.footer {
+    width: 1090px;
+    background-color: #463137ff;
+    color: white;
+    padding: 5px;
+    position: fixed;
+    top: 85%;
+    left: 10%;
+    text-align: center;
+}
+
+.cikis {
+    position: fixed;
+    top: 86%;
+    right: 10%;
+    width: 90px;
+    height: 45px;
+    background-color: #c0454cff;
+    color: white;
+    cursor: pointer;
+    border: none;
+    text-align: center;
+}
+
+.cikis p {
+    display: block;
+    list-style: none;
+}
+
+.cikis p a {
+    background: #c0454cff;
+    color: white;
+    display: block;
+    text-decoration: none;
+}
