@@ -1,1 +1,1 @@
-Lesson project called Post Office Information Management System (PBYS).
+Lesson project called Post Office Information Management System (POIM).
