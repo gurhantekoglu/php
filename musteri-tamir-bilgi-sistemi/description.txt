@@ -1,0 +1,2 @@
+A system where customers can create repair records, delete them and send messages to the system.
+To register to the system, it is necessary to confirm the link sent to the e-mail address.
